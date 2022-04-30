@@ -1,5 +1,5 @@
 # Taller-de-Productividad-Basada-en-Herramientas-Tecnol-gicas
-Proyecto para el Taller de Productividad Basada en Herramientas Tecnológicas. 
+Proyecto para la materia de Taller de Productividad Basada en Herramientas Tecnológicas. 
 
 ## Descripcion
 Esta herramienta es una agenda la cual maneja y analisa los contactos de los clientes la cual también genere una cita para la entrega de productos pedidos, esta es desarrollada en Java hecha para el uso interno de la empresa.
