@@ -2,11 +2,28 @@
 Proyecto para la materia de Taller de Productividad Basada en Herramientas Tecnológicas. 
 
 ## Descripcion
-Esta herramienta es una agenda la cual maneja y analisa los contactos de los clientes la cual también genere una cita para la entrega de productos pedidos, esta es desarrollada en Java hecha para el uso interno de la empresa.
+Esta herramienta es una agenda la cual maneja y analisa los contactos de los clientes la cual también genere una cita para la entrega de productos pedidos, está es desarrollada en Java hecha para el uso interno de la empresa con el objetivo de resolver la problemática presentada.
 
-## Problematica
+## Problemática
 La problemática la cual he identificado es que dentro de la empresa/negocio donde trabajo es que se tiene poco orden al guardar los contactos de los clientes, por lo cual podría venir bien una agenda fácil de usar para los empleados donde puedan guardar de manera organizada y sencilla la información de los clientes que más compren.
 
+##Tabla de Contenidos
+
+  - **Agenda1**
+    - **src**
+      - Agenda.java
+      - Contacto.java
+      - Muestra.java
+    - **target**
+      - calsses
+        - Agenda.class
+        - Contacto.class
+        - Muestra.class
+      - maven-status
+        - createdFiles.lst
+        - inputFiles.lst
+      
+      
 ## Requerimientos 
 
 - Diseño intuitivo, sencillo y amigable
