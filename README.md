@@ -45,11 +45,15 @@ La problemática la cual he identificado es que dentro de la empresa/negocio don
 
 Al ser un .jar el software no se instala, solo se ejecuta en el ambiente de JAVA por eso es importante que tengamos la ultima version de java instalada en nuestro equipo.
 
-*Sin embargo si se quieren hacer cambios dentro del codigo es necesario abrir la carpeta dentro de un IDE.
+*Sin embargo si se quieren hacer cambios dentro del código es necesario abrir la carpeta dentro de un IDE.
 
 ## Configuración
 - Instalamos la version mas actual de java ya que sin ella no pdoremos correr el software
 - Se configura el ambiente JAVA
+
+**Al querer hacer cambios dentro del código**
+- Instalamos y configuramos el IDE de preferencia (en mi caso Apache NetBeans)
+- Abrimos la carpeta del proyecto dentro del IDE
 
 
 ## Uso
