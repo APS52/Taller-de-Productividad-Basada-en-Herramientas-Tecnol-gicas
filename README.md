@@ -66,6 +66,6 @@ El software sera para uso interno del departamento correspondiente dentro de la 
 Con forme se vaya implementeando la aplicación dentro de la empresa y con la experiencia que vayan desarrollando los usuarios, podremos identificar errores y con eso saber que es lo que podemos mejorar en el software.
 Se planea sacar actualizaciones y mejoras del software hasta que se llegue a la version mas estable y completa. Despues solo sacar mejores versiones para la mejora de rendimiento o algunas nuevas mejoras que se nos ocurran.
 
-##Créditos
+## Créditos
 Desarrollado por:
 Alfredo Parra Sánchez **2867787**
