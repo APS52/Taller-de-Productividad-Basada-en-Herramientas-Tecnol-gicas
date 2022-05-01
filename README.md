@@ -57,7 +57,7 @@ Al ser un .jar el software no se instala, solo se ejecuta en el ambiente de JAVA
 
 
 ## Uso
-El software sera para uso interno del departamento correspondiente dentro de la empresa, donde dependiendo del usuario cada uno tendra permiso de acuerdo a sus responsabilidades.
+El software será para uso interno del departamento correspondiente dentro de la empresa, donde dependiendo del usuario cada uno tendra permiso de acuerdo a sus responsabilidades.
 
 ## Contribución
    - Abrimos el repositorio 
