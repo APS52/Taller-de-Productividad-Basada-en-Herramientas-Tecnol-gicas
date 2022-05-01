@@ -52,7 +52,7 @@ Al ser un .jar el software no se instala, solo se ejecuta en el ambiente de JAVA
 - Se configura el ambiente JAVA
 
 **Al querer hacer cambios dentro del código**
-- Instalamos y configuramos el IDE de preferencia (en mi caso Apache NetBeans)
+- Instalamos y configuramos el IDE de preferencia
 - Abrimos la carpeta del proyecto dentro del IDE
 
 
